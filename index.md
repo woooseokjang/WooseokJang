@@ -64,6 +64,7 @@
 ```
   소형 레저용 선박에 GPS, 가속도계를 탑재한 비콘을 장착하여 선박의 위험상황을 확인하고
   사고발생시 유관기관에 사고 사실을 자동통보 하는 시스템
+  
   기여: 전반
 ```
 - [firmware](https://github.com/woooseokjang/SSSB)
@@ -73,6 +74,7 @@
 ### 게임 우마무스메 플레이 어시스트 앱
 ```
   게임 우마무스메의 게임 플레이시 추가 정보를 재공하고 플레이를 가이드 해주는 앱
+  
   기여: 전반
 ```
 - [Android APP](https://github.com/woooseokjang/UMA-STAT)
@@ -81,6 +83,7 @@
 ### QReceipt
 ```
   불필요하게 소모되는 종이 영수증의 사용을 대체하는 QR코드로 접근가능한 전자영수증 서비스
+  
   기여: Back-End
 ```
 - [Projects](https://github.com/QReceipt)
@@ -106,6 +109,7 @@
   스마트 팜 구축을 위한 개인들을 대상으로 반응형 웹 기술과 
   WebGL 기술을 활용하여 가상공간에서 사용자에게 스마트 팜 운영에 필요한 설비와 
   식물의 생장에 필요한 요소에 대한 정보를 제공하고 이를 시험해 볼 수 있는 서비스
+  
   기여: Back-End, Web-GL App
 ```
 - [Projects](https://github.com/kitFF2022)
