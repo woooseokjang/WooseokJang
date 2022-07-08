@@ -101,8 +101,8 @@
 ```
 - [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
 - [Projects](https://github.com/LeisureGuardian)
-- [Back-End](https://github.com/LeisureGuardian/LG-API)
-- [Firmware](https://github.com/LeisureGuardian/LG-device)
+- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-API&show_owner=true)
+- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-device&show_owner=true)
 - [BoardSchema](https://oshwlab.com/mmyu2090/leisure-guardian)
 
 ### Farm Factory
@@ -116,6 +116,3 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&repo=BE&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&repo=FF-WebGL&show_owner=true)
-- [Projects](https://github.com/kitFF2022)
-- [Back-end](https://github.com/kitFF2022/BE)
-- [Web-GL App](https://github.com/kitFF2022/FF-WebGL)
