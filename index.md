@@ -2,7 +2,9 @@
 
 안녕하세요 저는 항상 새로운 방식을 탐구하는 장우석 입니다.
 
+
 ## Prize
+
 ```
 1. 2021년 하계 한국정보기술학회 대학생논문경진대회
   금상
@@ -16,6 +18,7 @@
   Python/FastAPI 기반의 MSA API,
   웹 프론트엔드, 안드로이드 App으로 구성된 스마트 구명조끼 시스템의 제안
 ```
+
 ```
 2. 금오공과대학교 KIT Engineering Fair 2021
   동상 
@@ -27,6 +30,7 @@
   Python/FastAPI 기반의 MSA API,
   웹 프론트엔드, 안드로이드 앱 으로 구성된 스마트 구명조끼 시스템의 시연 및 소개
 ```
+
 ```
 3. 2022년 하계 한국정보기술학회 대학생논문경진대회
   동상
@@ -40,6 +44,7 @@
   웹 브라우저상에서 실행 가능한 가상현실 스마트 팜 서비스의 제안
 ```
 
+
 ## Stack
 
 Python, 
@@ -50,7 +55,6 @@ Node.js,
 HTML, 
 CSS
 
-
 FastAPI, 
 tensorflow, 
 K8s (kubernetes), 
@@ -59,6 +63,7 @@ TheThingsStack (LoRaWAN)
 
 
 ## Projects
+
 ### 소형 레저용 선박을 위한 안전 확인 시스템
 ```
   소형 레저용 선박에 GPS, 가속도계를 탑재한 비콘을 장착하여 선박의 위험상황을 확인하고
@@ -71,9 +76,7 @@ TheThingsStack (LoRaWAN)
 
 - API
   https://github.com/woooseokjang/SSSB-API
-
-
-
+  
 ### 게임 우마무스메 플레이 어시스트 앱
 ```
   게임 우마무스메의 게임 플레이시 추가 정보를 재공하고 플레이를 가이드 해주는 앱
@@ -85,8 +88,6 @@ TheThingsStack (LoRaWAN)
 - Windows App
   https://github.com/woooseokjang/malddal
 
-
-
 ### QReceipt
 ```
   불필요하게 소모되는 종이 영수증의 사용을 대체하는 AR코드로 접근가능한 전자영수증 서비스
@@ -97,9 +98,6 @@ TheThingsStack (LoRaWAN)
   https://github.com/QReceipt
 - Back-end
   https://github.com/QReceipt/QReceipt-API
-
-
-
 
 ### LeisureGuardian
 ```
@@ -119,9 +117,6 @@ TheThingsStack (LoRaWAN)
   https://github.com/LeisureGuardian/LG-device
 - BoardSchema
   https://oshwlab.com/mmyu2090/leisure-guardian
-
-
-
 
 ### Farm Factory
 ```
