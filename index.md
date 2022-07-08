@@ -67,11 +67,9 @@
 
   기여: 전반
 ```
-- firmware
-  [https://github.com/woooseokjang/SSSB](https://github.com/woooseokjang/SSSB)
+- [firmware](https://github.com/woooseokjang/SSSB)
 
-- API
-  [https://github.com/woooseokjang/SSSB-API](https://github.com/woooseokjang/SSSB)
+- [API](https://github.com/woooseokjang/SSSB)
   
 ### 게임 우마무스메 플레이 어시스트 앱
 ```
@@ -79,10 +77,8 @@
 
   기여: 전반
 ```
-- Android APP
-  [https://github.com/woooseokjang/UMA-STAT](https://github.com/woooseokjang/UMA-STAT)
-- Windows App
-  [https://github.com/woooseokjang/malddal](https://github.com/woooseokjang/malddal)
+- [Android APP](https://github.com/woooseokjang/UMA-STAT)
+- [Windows App](https://github.com/woooseokjang/malddal)
 
 ### QReceipt
 ```
@@ -90,10 +86,8 @@
 
   기여: Back-End
 ```
-- Projects
-  [https://github.com/QReceipt](https://github.com/QReceipt)
-- Back-end
-  [https://github.com/QReceipt/QReceipt-API](https://github.com/QReceipt/QReceipt-API)
+- [Projects](https://github.com/QReceipt)
+- [Back-end](https://github.com/QReceipt/QReceipt-API)
 
 ### LeisureGuardian
 ```
@@ -104,16 +98,11 @@
   
   기여: Back-End, Private LoRaWAN 구축, Firmware, Deviceboard
 ```
-- Paper
-  [https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
-- Projects
-  [https://github.com/LeisureGuardian](https://github.com/LeisureGuardian)
-- Back-End
-  [https://github.com/LeisureGuardian/LG-API](https://github.com/LeisureGuardian/LG-API)
-- Firmware
-  [https://github.com/LeisureGuardian/LG-device](https://github.com/LeisureGuardian/LG-device)
-- BoardSchema
-  [https://oshwlab.com/mmyu2090/leisure-guardian](https://oshwlab.com/mmyu2090/leisure-guardian)
+- [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
+- [Projects](https://github.com/LeisureGuardian)
+- [Back-End](https://github.com/LeisureGuardian/LG-API)
+- [Firmware](https://github.com/LeisureGuardian/LG-device)
+- [BoardSchema](https://oshwlab.com/mmyu2090/leisure-guardian)
 
 ### Farm Factory
 ```
@@ -123,9 +112,6 @@
 
   기여: Back-End, Web-GL App
 ```
-- Projects
-  [https://github.com/kitFF2022](https://github.com/kitFF2022)
-- Back-end
-  [https://github.com/kitFF2022/BE](https://github.com/kitFF2022/BE)
-- Web-GL App
-  [https://github.com/kitFF2022/FF-WebGL](https://github.com/kitFF2022/FF-WebGL)
+- [Projects](https://github.com/kitFF2022)
+- [Back-end](https://github.com/kitFF2022/BE)
+- [Web-GL App](https://github.com/kitFF2022/FF-WebGL)
