@@ -106,6 +106,7 @@
 - [BoardSchema](https://oshwlab.com/mmyu2090/leisure-guardian)
 
 ### Farm Factory
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&repo=BE&show_owner=true)]
 ```
   스마트 팜 구축을 위한 개인들을 대상으로 반응형 웹 기술과 
   WebGL 기술을 활용하여 가상공간에서 사용자에게 스마트 팜 운영에 필요한 설비와 
@@ -113,7 +114,7 @@
 
   기여: Back-End, Web-GL App
 ```
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 - [Projects](https://github.com/kitFF2022)
 - [Back-end](https://github.com/kitFF2022/BE)
 - [Web-GL App](https://github.com/kitFF2022/FF-WebGL)
