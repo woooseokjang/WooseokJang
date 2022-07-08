@@ -47,19 +47,15 @@
 
 ## Stack
 
-Python, 
-C/C++, 
-JAVA, 
-Kotlin, 
-Node.js, 
-HTML, 
-CSS
-
-FastAPI, 
-tensorflow, 
-K8s (kubernetes), 
-React, 
-TheThingsStack (LoRaWAN)
+- Python
+- C/C++
+- JAVA
+- Kotlin
+- Node.js
+- FastAPI
+- Django
+- k8s
+- React
 
 
 ## Projects
@@ -69,7 +65,7 @@ TheThingsStack (LoRaWAN)
   소형 레저용 선박에 GPS, 가속도계를 탑재한 비콘을 장착하여 선박의 위험상황을 확인하고
   사고발생시 유관기관에 사고 사실을 자동통보 하는 시스템
 
-  참여 부분: 전반
+  기여: 전반
 ```
 - firmware
   https://github.com/woooseokjang/SSSB
@@ -81,7 +77,7 @@ TheThingsStack (LoRaWAN)
 ```
   게임 우마무스메의 게임 플레이시 추가 정보를 재공하고 플레이를 가이드 해주는 앱
 
-  참여 부분: 전반
+  기여: 전반
 ```
 - Android APP
   https://github.com/woooseokjang/UMA-STAT
@@ -92,7 +88,7 @@ TheThingsStack (LoRaWAN)
 ```
   불필요하게 소모되는 종이 영수증의 사용을 대체하는 AR코드로 접근가능한 전자영수증 서비스
 
-  참여 부분: Back-End
+  기여: Back-End
 ```
 - Projects
   https://github.com/QReceipt
@@ -105,7 +101,7 @@ TheThingsStack (LoRaWAN)
   근해, 수상 레저스포츠 사업장 등의 안전관리센터에서 착용자의 위급 상황 발생을 능동적으로 감지하고,
   실시간으로 착용자의 상태를 확인할 수 있도록 하여 더 효율적이고 신속한 구조를 돕는 스마트 구명조끼 시스템
   
-  참여 부분: Back-End, Private LoRaWAN 구축, Firmware, Deviceboard
+  기여: Back-End, Private LoRaWAN 구축, Firmware, Deviceboard
 ```
 - Paper
   https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029
@@ -124,7 +120,7 @@ TheThingsStack (LoRaWAN)
   WebGL 기술을 활용하여 가상공간에서 사용자에게 스마트 팜 운영에 필요한 설비와 
   식물의 생장에 필요한 요소에 대한 정보를 제공하고 이를 시험해 볼 수 있는 서비스
 
-  참여 부분: Back-End, Web-GL App
+  기여: Back-End, Web-GL App
 ```
 - Projects
   https://github.com/kitFF2022
