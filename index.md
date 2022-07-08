@@ -40,7 +40,7 @@
   웹 브라우저상에서 실행 가능한 가상현실 스마트 팜 서비스의 제안
 ```
 
-# Stack
+## Stack
 
 Python, 
 C/C++, 
@@ -58,7 +58,7 @@ React,
 TheThingsStack (LoRaWAN)
 
 
-# Projects
+## Projects
 ### 소형 레저용 선박을 위한 안전 확인 시스템
 ```
   소형 레저용 선박에 GPS, 가속도계를 탑재한 비콘을 장착하여 선박의 위험상황을 확인하고
