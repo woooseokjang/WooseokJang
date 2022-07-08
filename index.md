@@ -78,8 +78,11 @@
 
   기여: 전반
 ```
-- [Android APP](https://github.com/woooseokjang/UMA-STAT)
-- [Windows App](https://github.com/woooseokjang/malddal)
+
+- Android APP
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=woooseokjang&repo=UMA-STAT&show_owner=true)
+- Windows App
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=woooseokjang&repo=malddal&show_owner=true)
 
 ### QReceipt
 ```
@@ -88,7 +91,8 @@
   기여: Back-End
 ```
 - [Projects](https://github.com/QReceipt)
-- [Back-end](https://github.com/QReceipt/QReceipt-API)
+- Back-End
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QReceipt&repo=QReceipt-API&show_owner=true)
 
 ### LeisureGuardian
 ```
@@ -99,11 +103,14 @@
   
   기여: Back-End, Private LoRaWAN 구축, Firmware, Deviceboard
 ```
-- [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
+
 - [Projects](https://github.com/LeisureGuardian)
-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-API&show_owner=true)
-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-device&show_owner=true)
+- [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
 - [BoardSchema](https://oshwlab.com/mmyu2090/leisure-guardian)
+- Back-End
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-API&show_owner=true)
+- Firmware
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeisureGuardian&repo=LG-device&show_owner=true)
 
 ### Farm Factory
 ```
@@ -113,6 +120,8 @@
 
   기여: Back-End, Web-GL App
 ```
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&show_owner=true)
+- [Projects](https://github.com/kitFF2022)
+- Back-End
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&repo=BE&show_owner=true)
+- WebGL App
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitFF2022&repo=FF-WebGL&show_owner=true)
