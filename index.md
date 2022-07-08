@@ -68,10 +68,10 @@
   기여: 전반
 ```
 - firmware
-  https://github.com/woooseokjang/SSSB
+  [https://github.com/woooseokjang/SSSB](https://github.com/woooseokjang/SSSB)
 
 - API
-  https://github.com/woooseokjang/SSSB-API
+  [https://github.com/woooseokjang/SSSB-API](https://github.com/woooseokjang/SSSB)
   
 ### 게임 우마무스메 플레이 어시스트 앱
 ```
@@ -80,9 +80,9 @@
   기여: 전반
 ```
 - Android APP
-  https://github.com/woooseokjang/UMA-STAT
+  [https://github.com/woooseokjang/UMA-STAT](https://github.com/woooseokjang/UMA-STAT)
 - Windows App
-  https://github.com/woooseokjang/malddal
+  [https://github.com/woooseokjang/malddal](https://github.com/woooseokjang/malddal)
 
 ### QReceipt
 ```
@@ -91,28 +91,29 @@
   기여: Back-End
 ```
 - Projects
-  https://github.com/QReceipt
+  [https://github.com/QReceipt](https://github.com/QReceipt)
 - Back-end
-  https://github.com/QReceipt/QReceipt-API
+  [https://github.com/QReceipt/QReceipt-API](https://github.com/QReceipt/QReceipt-API)
 
 ### LeisureGuardian
 ```
-  GPS, 심박 센서, 온도 센서 그리고 가속도 센서 등을 활용해 
-  근해, 수상 레저스포츠 사업장 등의 안전관리센터에서 착용자의 위급 상황 발생을 능동적으로 감지하고,
-  실시간으로 착용자의 상태를 확인할 수 있도록 하여 더 효율적이고 신속한 구조를 돕는 스마트 구명조끼 시스템
+  GPS, 심박 센서, 온도 센서 그리고 가속도 센서 등을 활용해
+  근해, 수상 레저스포츠 사업장 등의 안전관리센터에서 착용자의 위급 상황 발생을
+  능동적으로 감지하고, 실시간으로 착용자의 상태를 확인할 수 있도록 하여 
+  더 효율적이고 신속한 구조를 돕는 스마트 구명조끼 시스템
   
   기여: Back-End, Private LoRaWAN 구축, Firmware, Deviceboard
 ```
 - Paper
-  https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029
+  [https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10569029)
 - Projects
-  https://github.com/LeisureGuardian
+  [https://github.com/LeisureGuardian](https://github.com/LeisureGuardian)
 - Back-End
-  https://github.com/LeisureGuardian/LG-API
+  [https://github.com/LeisureGuardian/LG-API](https://github.com/LeisureGuardian/LG-API)
 - Firmware
-  https://github.com/LeisureGuardian/LG-device
+  [https://github.com/LeisureGuardian/LG-device](https://github.com/LeisureGuardian/LG-device)
 - BoardSchema
-  https://oshwlab.com/mmyu2090/leisure-guardian
+  [https://oshwlab.com/mmyu2090/leisure-guardian](https://oshwlab.com/mmyu2090/leisure-guardian)
 
 ### Farm Factory
 ```
@@ -123,8 +124,8 @@
   기여: Back-End, Web-GL App
 ```
 - Projects
-  https://github.com/kitFF2022
+  [https://github.com/kitFF2022](https://github.com/kitFF2022)
 - Back-end
-  https://github.com/kitFF2022/BE
+  [https://github.com/kitFF2022/BE](https://github.com/kitFF2022/BE)
 - Web-GL App
-  https://github.com/kitFF2022/FF-WebGL
+  [https://github.com/kitFF2022/FF-WebGL](https://github.com/kitFF2022/FF-WebGL)
