@@ -52,7 +52,6 @@
 - JAVA
 - Kotlin
 - Node.js
-
 - FastAPI
 - Django
 - k8s
