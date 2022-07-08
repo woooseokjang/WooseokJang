@@ -42,19 +42,19 @@
 
 # Stack
 
-Python
-C/C++
-JAVA
-Kotlin
-Node.js
-HTML
+Python, 
+C/C++, 
+JAVA, 
+Kotlin, 
+Node.js, 
+HTML, 
 CSS
 
 
-FastAPI
-tensorflow
-K8s (kubernetes)
-React
+FastAPI, 
+tensorflow, 
+K8s (kubernetes), 
+React, 
 TheThingsStack (LoRaWAN)
 
 
