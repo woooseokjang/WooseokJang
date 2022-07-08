@@ -113,6 +113,7 @@
 
   기여: Back-End, Web-GL App
 ```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 - [Projects](https://github.com/kitFF2022)
 - [Back-end](https://github.com/kitFF2022/BE)
 - [Web-GL App](https://github.com/kitFF2022/FF-WebGL)
